@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Triton Docs',
     description: 'Translate your server',
+    base: "/triton-docs/",
     themeConfig: {
         // logo: '/vuepress-logo.png',
         lastUpdated: 'Last updated',
